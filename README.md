@@ -1,8 +1,12 @@
 <h1>Hi, I'm David! <br/><a href="https://www.linkedin.com/in/djpoehlman/">Cybersecurity enthusiast & undergraduate student.</a></h1>
 
+<h3>👨‍💻 C Programming Projects:</h3>
+ - [Medical Calculator](https://github.com/davidpoehlman/Medical_Calculator)
+
+
 <!--<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<h2>👨‍💻 C Programming Projects:</h2>
+
 
 <h2> 🤳 Connect with me:</h2> 
 
