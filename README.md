@@ -4,7 +4,7 @@
 <h3>👨‍💻 Software Dev Projects:</h3>
 
 - <b>C Programming Projects</b>
-  - [Medical_Calculator](https://github.com/davidpoehlmanMedical_Calculator)
+  - [Medical_Calculator](https://github.com/davidpoehlman/Medical_Calculator)
 
 [<img align="left" alt="David Poehlman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
